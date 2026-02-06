@@ -4,7 +4,7 @@ body {
   font-size: 16px;
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.5;
-  background-color: lightseagreen;
+  background: linear-gradient(135deg, #e31746, #4e085f);
   color: white;
 }
 
